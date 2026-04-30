@@ -1,4 +1,4 @@
-# Agentic Engineering Framework
+# Wisepunk Agentic Engineering Framework
 
 A drop-in, Markdown-native workflow system for AI-assisted development. It gives your coding agent (Cursor, Claude Code, Copilot, Aider, or anything else) a structured way to plan, implement, review, and — critically — learn from every task.
 
